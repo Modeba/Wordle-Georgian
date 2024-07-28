@@ -27,5 +27,8 @@ def check_guess(answer, guess):
 
     return guess, notFound
 
+answer = 'აბბაც'
+guess = input()
 
-print(check_guess('smock', 'plane'))
+print(guess)
+print(check_guess(answer, guess))
