@@ -1,0 +1,8 @@
+1) Develop backend
+2) Make code work with nonenglish characters
+3) Develop visual side of the code
+4) Parse suitable georgian words
+5) Basics of Django
+6) Deploy the code
+7) Develop score system
+8) Social media side
